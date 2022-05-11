@@ -21,4 +21,21 @@ $ yarn
 $ yarn start
 ```
 
+
+
+Json para testar:
+query { 
+  cep (cep: "17510460")
+  { 
+    cep 
+    logradouro 
+    complemento 
+    bairro 
+    localidade
+    uf 
+    ibge 
+    gia
+  }
+}
+
 **Fim :)**
