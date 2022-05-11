@@ -1,3 +1,7 @@
+Emily Stephanie Batista 557137
+Rafael Ferreira Pereira 587761
+Rebeka Odilon Da Silva  591521
+
 # CEP GraphQL
 
 Disponível em: https://cep-graphql.herokuapp.com
