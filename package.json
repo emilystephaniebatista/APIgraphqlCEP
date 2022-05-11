@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emily Stephanie",
+  "license": "MIT",
+  "scripts": {
+    "start": "sucrase-node src/index.js",
+    "start:dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.9.12",
+    "axios": "^0.19.0",
+    "graphql": "^14.5.8",
+    "sucrase": "^3.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
+}
